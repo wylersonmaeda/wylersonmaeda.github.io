@@ -1,0 +1,63 @@
+html{
+
+	 background-color: #1155f6;
+
+	
+}
+
+body{
+
+    margin:0 auto;
+	background-color:  orange;
+	 width: 600px;
+	 height: 1000px;
+	 border: 5px solid black;
+	 text-align: center;
+
+}
+
+h1{ 
+    
+    text-align: center;
+    color : blue;
+    text-shadow:  2px 2px 2px gray;
+
+
+}
+
+p{
+
+   margin: 0 auto;
+   padding: 10px;
+   text-align: left;
+
+}
+
+ul{
+	text-align: left;
+}
+
+
+/*
+p{
+	font-family: 'Shadows Into light', serif;
+	color: silver;
+	letter-spacing: 2;
+	line-height: 2;
+	font-size: 15px;
+}
+h1{
+	 background-color: silver;
+
+}
+h1,h2{
+
+	font-family: 'Mukta Malar,' serif;
+
+}
+
+h1{
+	font-size: 50px;
+	border: 1px solid black;
+	text-align: center;
+}
